@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box
+}
+
+body{
+    background-color: #000;
+    background-image: url('../images/fundo.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100vh;
+    min-height: 400px;
+    color: white;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.titulo{
+    margin: 0 0 5px 5px;
+}
+
+.subtitulo{
+    margin-top: 5px;
+}
